@@ -1,0 +1,66 @@
+@media screen and (max-width: 767px){
+    #fontawes i{
+        display: none !important;
+    }
+    .carousel-caption{
+        position: static !important;
+        width: 100% !important;
+        padding: 15px !important;
+    }
+    .carousel-caption h5{
+        font-size: 15px !important;
+        text-align: start !important;
+    }
+    .carousel-caption h1{
+        font-size: 30px !important;
+        text-align: start !important;
+    }
+    .carousel-caption p{
+        width: 100% !important;
+        text-align: start !important;
+    }
+    .carousel-caption ul{
+        text-align: start !important;
+    }
+    .main-img-box{
+        text-align: center !important;
+    }
+    .professional-text{
+        text-align: center !important;
+    }
+    .professional-img{
+        padding-top: 15px !important;
+    }
+    .main-team-box-two img{
+        width: 100% !important;
+        padding-top: 10px !important;
+    }
+    .list-text{
+        text-align: center !important;
+    }
+    .list-text h5 a{
+        font-size: 20px !important;
+    }
+    .list-text h6{
+        font-size: 18px !important;
+    }
+    .choseus-text{
+        text-align: left !important;
+    }
+    .choseus-text h1{
+        font-size: 38px !important;
+    }
+    .chose-text-one{
+        text-align: center !important;
+    }
+    .chose-text-one h4{
+        font-size: 20px !important;
+    }
+    .under-text{
+        text-align: center !important;
+    }
+    .image-under-text{
+        text-align: center !important;
+        margin-top: 15px !important;
+    }
+}
